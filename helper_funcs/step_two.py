@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Special thanks to @Kartikrajofficial
 # Copyright (c) Shrimadhav U K
 #
 # This program is free software: you can redistribute it and/or modify
