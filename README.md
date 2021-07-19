@@ -2,11 +2,6 @@
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
-## Recent actions
-
-Your contact co...... Joined the telegram at 2:28. This your in contact list.
-
-✓ Friend Enter cmd y/no for block or unblock
 
 ### ⚠ legal DISclaimER 🚸
 please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
